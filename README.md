@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @fewrytv
-- 👀 I’m interested in Minecraft Plugin, Discord Bot, and Web Development
-- 🌱 I’m currently learning Java
+- 👋 Hi, I’m @luigi242
+- 👀 I’m interested in Discord Bot Development, Minecraft Plugins and AI Stuff
+- 🌱 I’m currently learning Python
