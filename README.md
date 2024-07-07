@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @luigi242
-- 👀 I’m interested in Discord Bot Development, Minecraft Plugins and AI Stuff
+- 👀 I’m interested in AI Stuff
 - 🌱 I’m currently learning Python
