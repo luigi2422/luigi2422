@@ -1,7 +1,7 @@
 ## Hey :wave:, i'm luigi242!
 
-:de: **Hamburg, Germany** <br>
-:rainbow_flag: **Links Grün Versifft.**
+:de: From **Hamburg, Germany** <br>
+:rainbow_flag: "**Links Grün Versifft**"
 
 #
 
