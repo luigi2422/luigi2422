@@ -7,7 +7,7 @@
 
 :seedling: Currently learning **Java** <br>
 :video_game: Making **Minecraft Plugins** <br>
-:cat2: Likes **Cats**
+:cat2: Likes **Cats** <br>
 :cookie: and **Cookies**
 
 #
