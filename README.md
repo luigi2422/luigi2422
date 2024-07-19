@@ -5,6 +5,7 @@
 
 #
 
-:video_game: Making **Minecraft Plugins**
+:video_game: Making **Minecraft Plugins** <br>
 :cat2: Likes **Cats**
+
 
