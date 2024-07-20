@@ -6,7 +6,7 @@
 #
 
 :seedling: Currently learning **Java** <br>
-:video_game: Making **Minecraft Plugins** <br>
+:computer: Making **stuff no one needes** <br>
 :cat2: Likes **Cats** <br>
 :cookie: and **Cookies**
 
