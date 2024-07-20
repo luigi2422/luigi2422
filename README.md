@@ -12,4 +12,5 @@
 
 #
 
+:computer: **Linux** > **macOS** > **Windows**
 
